@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! I'm Erudev (Achmad) 👋
 
-<!--
-**eruDev0/erudev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on SIRATA (Sistem Informasi Rukun Tetangga)
+- 🌱 I’m currently learning to become JavaScript/TypeScript developer
+- 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript
+- 💬 Ask me about anything
+- 📫 How to reach me: erudev0@gmail.com
+- 😄 Pronouns: erudev
 
-Here are some ideas to get you started:
+[![An image of @erudev0's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Erudev0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erudev0&theme=react&show_icons=true)
+
+## Learned Tech
+<a href="#"><img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="NodeJS" width="24px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="ReactJS" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://nextjs.org/"><img align="left" alt="NextJS" width="24px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" width="24px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
