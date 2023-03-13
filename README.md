@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to become JavaScript/TypeScript developer
 - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript
 - 💬 Ask me about anything
-- 📫 How to reach me: erudev0@gmail.com
+- 📫 How to reach me: achmadhendarsyah7@gmail.com / erudev0@gmail.com
 - 😄 Pronouns: erudev
 
 [![An image of @erudev0's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
