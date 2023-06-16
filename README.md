@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript
 - 💬 Ask me about anything
 - 📫 How to reach me: ahmdhndrsyh@gmail.com
-- 😄 Pronouns: Eru
+- 😄 Pronouns: he/him
 
 [![An image of @ahmdhndr's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
 
