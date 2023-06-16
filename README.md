@@ -1,15 +1,15 @@
-### Hi there! I'm Erudev (Achmad) 👋
+### Hi there! I'm Achmad 👋
 
-- 🔭 I’m currently working on SIRATA (Sistem Informasi Rukun Tetangga)
+<!-- - 🔭 I’m currently working on SIRATA (Sistem Informasi Rukun Tetangga) -->
 - 🌱 I’m currently learning to become JavaScript/TypeScript developer
 - 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript
 - 💬 Ask me about anything
-- 📫 How to reach me: achmadhendarsyah7@gmail.com / erudev0@gmail.com
-- 😄 Pronouns: erudev
+- 📫 How to reach me: ahmdhndrsyh@gmail.com
+- 😄 Pronouns: Eru
 
-[![An image of @erudev0's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
+[![An image of @ahmdhndr's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
 
-![Erudev0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erudev0&theme=react&show_icons=true)
+![Ahmdhndr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmdhndr&theme=react&show_icons=true)
 
 ## Learned Tech
 <a href="#"><img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
