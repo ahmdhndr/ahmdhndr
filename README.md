@@ -1,4 +1,4 @@
-### Hi there! I'm Achmad 👋
+### Hi there! I'm Hendar 👋
 
 <!-- - 🔭 I’m currently working on SIRATA (Sistem Informasi Rukun Tetangga) -->
 - 🌱 I’m currently learning to become JavaScript/TypeScript developer
