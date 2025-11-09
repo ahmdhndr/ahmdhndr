@@ -1,18 +1,58 @@
-### Hi there! I'm Achmad 👋
+# 👋 Hi, I'm Achmad Hendarsyah
 
-<!-- - 🔭 I’m currently working on SIRATA (Sistem Informasi Rukun Tetangga) -->
-- 🌱 I’m currently learning to become JavaScript/TypeScript developer
-- 👯 I’m looking to collaborate on creating web project related to JavaScript/TypeScript
-- 💬 Ask me about anything
-- 📫 How to reach me: ahmdhndrsyh@gmail.com
+A Junior Programmer passionate about web development and exploring modern technologies.
 
-[![An image of @ahmdhndr's Holopin badges](https://holopin.me/erudev0)](https://holopin.io/@erudev0)
+---
 
-![Ahmdhndr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmdhndr&theme=react&show_icons=true)
+## 🧑‍💻 About Me
+- Working as a **Junior Programmer** at an **IT consultant based in Bandung, Indonesia**.
+- Involved in **feature development**, **bug fixing**, and **system migration** to modern stacks.
+- Enthusiastic about improving developer workflow using tools like **LazyVim**, **WezTerm**, and **WSL** to create an efficient coding environment.
 
-## Learned Tech
-<a href="#"><img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" width="24px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="ReactJS" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://nextjs.org/"><img align="left" alt="NextJS" width="24px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" width="24px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
+---
+
+## ⚙️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+---
+
+## 📂 Project Highlights
+
+### 🌐 Personal Portfolio Website
+Personal website to showcase projects, career journey, and learning notes.
+**Tech:** Next.js, TailwindCSS
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmdhndr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdhndr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/ahmdhndr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/ahmdhndr">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="mailto:ahmdhndrsyh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmdhndrsyh%40gmail.com-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+> 💡 *“Keep learning, stay curious — technology never stops evolving, and that’s what makes it exciting.”*
