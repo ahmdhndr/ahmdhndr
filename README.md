@@ -24,33 +24,10 @@ A Junior Programmer passionate about web development and exploring modern techno
 
 ---
 
-## 📂 Project Highlights
-
-### 🌐 Personal Portfolio Website
-Personal website to showcase projects, career journey, and learning notes.
-**Tech:** Next.js, TailwindCSS
-
----
-
 ## 📊 GitHub Stats
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmdhndr&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdhndr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmdhndr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/ahmdhndr">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="mailto:ahmdhndrsyh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmdhndrsyh%40gmail.com-red?style=for-the-badge" />
-  </a>
 </p>
 
 ---
